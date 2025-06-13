@@ -1,5 +1,5 @@
 const API_CONFIG = {
-  baseURL: 'http://localhost:8000',
+  baseURL: 'https://web-production-82a2b.up.railway.app/',
   endpoints: {
     chat: '/ask-question',  // Changed from '/chat' to match backend
     upload: '/upload-files' // Changed from '/upload' to match backend
